@@ -1,0 +1,13 @@
+[
+   { "name": "Amara",  
+    "message": "What's up?" }, 
+     { "name": "Ryan", 
+    "message": "How are you?" },
+    { "name": "Autumn", 
+    "message": "Good Morning" },
+    {"name": "Zac", 
+    "message": "Good Evening" },
+    {"name": "Blake", 
+    "message": "Goodbye" }
+]
+
